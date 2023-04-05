@@ -1,0 +1,25 @@
+{
+  "block.extended_drawers.double_drawer": "双层抽屉",
+  "block.extended_drawers.quad_drawer": "四层抽屉",
+  "block.extended_drawers.single_drawer": "抽屉",
+  "block.extended_drawers.shadow_drawer": "影子抽屉",
+  "block.extended_drawers.access_point": "抽屉访问点",
+  "block.extended_drawers.connector": "抽屉连接器",
+  
+  "item.extended_drawers.t1_upgrade": "抽屉升级 I",
+  "item.extended_drawers.t2_upgrade": "抽屉升级 II",
+  "item.extended_drawers.t3_upgrade": "抽屉升级 III",
+  "item.extended_drawers.t4_upgrade": "抽屉升级 IV",
+  "item.extended_drawers.downgrade": "抽屉降级器",
+  "item.extended_drawers.creative_upgrade": "创造模式抽屉升级",
+  "item.extended_drawers.upgrade_frame": "升级框架",
+  "item.extended_drawers.lock": "抽屉锁",
+  
+  "tooltip.extended_drawers.drawer_contents": "内容：",
+  "itemGroup.extended_drawers.main": "Extended Drawers",
+  "extended_drawer.drawer.upgrade_fail": "无法更改升级；物品太多。",
+  
+  "book.extended_drawers.guide.name": "扩展抽屉",
+  "book.extended_drawers.guide.landing_text": "本指南将带领您完成使用抽屉设置出色的存储系统的所有步骤，以及介绍模组中每个物品和方块的工作方式。",
+  "book.extended_drawers.guide.subtitle": "Version 1.3.7"
+}

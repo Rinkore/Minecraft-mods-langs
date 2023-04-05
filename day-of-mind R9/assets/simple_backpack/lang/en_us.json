@@ -1,0 +1,18 @@
+{
+    "item.simple_backpack.backpack_new": "Test Backpack",
+    "container.simple_backpack.backpack_new": "Simple Backpack",
+    "item.simple_backpack.backpack": "Backpack",
+    "container.simple_backpack.backpack": "Simple Backpack",
+    "item.simple_backpack.void_pack": "Void Pack",
+    "container.simple_backpack.void_pack": "WARNING!!! ITEMS WILL BE LOST",
+    "item.simple_backpack.ender_pack": "Ender Pack",
+    "container.simple_backpack.ender_pack": "Enderchest On The Go",
+    "item.simple_backpack.simple_bundle": "Simple Bundle",
+    "item.simple_backpack.simple_bundle.tip1": "Sneak + right-click to dump ALL contents on ground",
+    "item.simple_backpack.void_bundle": "Void Bundle",
+    "item.simple_backpack.void_bundle.tip1": "A bundle for your garbage",
+    "item.simple_backpack.void_bundle.tip2": "Sneak + right-click to destroy contents",
+    "item.simple_backpack.portable_crafter": "Portable Crafter",
+    "container.simple_backpack.portable_crafter": "Crafting On The Go",
+    "itemGroup.simple_backpack.simple_backpack_group": "Simple Backpack"
+}

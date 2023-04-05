@@ -1,0 +1,190 @@
+{
+  "harvest_scythes.scythe_tooltip.radius": "§6收获半径：%s",
+  "harvest_scythes.scythe_tooltip.circle": "§6以圆形收获：%s",
+  "harvest_scythes.scythe_tooltip.radius.arg_color": "§e",
+  "harvest_scythes.scythe_tooltip.circle.arg_color": "§e",
+  
+  "harvest_scythes.machete_tooltip.depth": "§6收获深度：%s",
+  "harvest_scythes.machete_tooltip.depth.arg_color": "§e",
+  
+  "item.harvest_scythes.creative_scythe": "创造性镰刀",
+  
+  "item.harvest_scythes.wooden_scythe": "木镰刀",
+  "item.harvest_scythes.stone_scythe": "石镰刀",
+  "item.harvest_scythes.iron_scythe": "铁镰刀",
+  "item.harvest_scythes.golden_scythe": "金镰刀",
+  "item.harvest_scythes.diamond_scythe": "钻石镰刀",
+  "item.harvest_scythes.netherite_scythe": "下界合金镰刀",
+  
+  "item.harvest_scythes.dragon_scythe": "龙之镰刀",
+  
+  "item.harvest_scythes.platinum_scythe": "铂金镰刀",
+  
+  "item.harvest_scythes.luxore_scythe": "卢克索镰刀",
+  
+  "item.harvest_scythes.gobber2_scythe": "哥布林镰刀",
+  "item.harvest_scythes.gobber2_nether_scythe": "下界哥布林镰刀",
+  "item.harvest_scythes.gobber2_end_scythe": "末地哥布林镰刀",
+  
+  "item.harvest_scythes.gravitite_scythe": "重力合金镰刀",
+  "item.harvest_scythes.zanite_scythe": "桑拿合金镰刀",
+  "item.harvest_scythes.valkyrie_scythe": "女武神镰刀",
+  "item.harvest_scythes.adb_adamantium_scythe": "亚当曼提矿镰",
+    
+  "item.harvest_scythes.adb_vibranium_scythe": "振金镰刀",
+  "item.harvest_scythes.adb_nether_scythe": "地狱镰刀",
+
+  "item.harvest_scythes.elven_silver_scythe": "精灵银镰",
+  "item.harvest_scythes.dwarven_bronze_scythe": "矮人青铜镰",
+  "item.harvest_scythes.triton_prismarine_scythe": "海螺水晶镰",
+  "item.harvest_scythes.mithril_scythe": "秘银镰刀",
+
+  "item.harvest_scythes.copper_scythe": "铜镰刀",
+  "item.harvest_scythes.bronze_scythe": "青铜镰刀",
+  "item.harvest_scythes.steel_scythe": "钢镰刀",
+
+  "item.harvest_scythes.alexandrite_scythe": "红绿宝石镰",
+  "item.harvest_scythes.kunzite_scythe": "紫晶镰刀",
+  "item.harvest_scythes.carbonado_scythe": "碳镰刀",
+  "item.harvest_scythes.citrine_scythe": "黄玉镰刀",
+  "item.harvest_scythes.corundum_scythe": "刚玉镰刀",
+  "item.harvest_scythes.emerald_scythe": "翡翠镰刀",
+  "item.harvest_scythes.ruby_scythe": "红宝石镰刀",
+  "item.harvest_scythes.spinel_scythe": "尖晶石镰刀",
+  "item.harvest_scythes.sapphire_scythe": "蓝宝石镰刀",
+  "item.harvest_scythes.topaz_scythe": "黄水晶镰刀",
+  "item.harvest_scythes.tourmaline_scythe": "电气石镰刀",
+  "item.harvest_scythes.moissanite_scythe": "莫桑石镰刀",
+  
+  "item.harvest_scythes.adamantite_scythe": "精金镰刀",
+  "item.harvest_scythes.aquarium_scythe": "水晶镰刀",
+  "item.harvest_scythes.banglum_scythe": "钴镰刀",
+  "item.harvest_scythes.carmot_scythe": "卡莫特镰刀",
+  "item.harvest_scythes.celestium_scythe": "天蓝镰刀",
+  "item.harvest_scythes.durasteel_scythe": "耐钢镰刀",
+  "item.harvest_scythes.hallowed_scythe": "神圣镰刀",
+  "item.harvest_scythes.kyber_scythe": "合金镰刀",
+  "item.harvest_scythes.metallurgium_scythe": "冶金镰刀",
+  "item.harvest_scythes.mythril_scythe": "秘银镰刀",
+  "item.harvest_scythes.orichalcum_scythe": "山铜镰刀",
+  "item.harvest_scythes.osmium_scythe": "锇镰刀",
+  "item.harvest_scythes.palladium_scythe": "钯镰刀",
+  "item.harvest_scythes.prometheum_scythe": "普罗米修斯镰刀",
+  "item.harvest_scythes.quadrillum_scythe": "方解石镰刀",
+  "item.harvest_scythes.runite_scythe": "符文镰刀",
+  "item.harvest_scythes.star_platinum_scythe": "星之白金镰刀",
+  "item.harvest_scythes.stormyx_scythe": "风暴玄武镰刀",
+  
+  "item.harvest_scythes.astrite_scythe": "星彩镰刀",
+  "item.harvest_scythes.nm_kunzite_scythe": "锦莲石镰刀",
+  "item.harvest_scythes.stibnite_scythe": "辉锑矿镰刀",
+  "item.harvest_scythes.thounite_scythe": "桃花岛镰刀",
+  "item.harvest_scythes.uvarovite_scythe": "绿铬铁矿镰刀",
+  "item.harvest_scythes.peridot_scythe": "翡翠镰刀",
+
+  "item.harvest_scythes.diamold_scythe": "钻石合金镰刀",
+
+  "item.harvest_scythes.batet_scythe": "巴特镰刀",
+  "item.harvest_scythes.luss_scythe": "卢斯镰刀",
+  "item.harvest_scythes.vuld_scythe": "沃尔德镰刀",
+
+  "item.harvest_scythes.flint_scythe": "燧石镰刀",
+
+  "item.harvest_scythes.cryomarble_scythe": "冰雪大理石镰刀",
+
+  "item.harvest_scythes.creative_machete": "创造模式弯刀",
+
+  "item.harvest_scythes.wooden_machete": "木制弯刀",
+  "item.harvest_scythes.stone_machete": "石制弯刀",
+  "item.harvest_scythes.iron_machete": "铁制弯刀",
+  "item.harvest_scythes.golden_machete": "金制弯刀",
+  "item.harvest_scythes.diamond_machete": "钻石弯刀",
+  "item.harvest_scythes.netherite_machete": "下界合金弯刀",
+
+  "item.harvest_scythes.dragon_machete": "龙之弯刀",
+
+  "item.harvest_scythes.platinum_machete": "白金弯刀",
+
+  "item.harvest_scythes.luxore_machete": "卢克索弯刀",
+
+  "item.harvest_scythes.gobber2_machete": "戈伯2弯刀",
+  "item.harvest_scythes.gobber2_nether_machete": "戈伯2下界弯刀",
+  "item.harvest_scythes.gobber2_end_machete": "戈伯2末地弯刀",
+  "item.harvest_scythes.gravitite_machete": "重力合金砍刀",
+  "item.harvest_scythes.zanite_machete": "赞奈合金砍刀",
+  "item.harvest_scythes.valkyrie_machete": "女武神合金砍刀",
+  
+  "item.harvest_scythes.adb_adamantium_machete": "亚当antium合金砍刀",
+  "item.harvest_scythes.adb_vibranium_machete": "振金合金砍刀",
+  "item.harvest_scythes.adb_nether_machete": "地狱砍刀",
+  
+  "item.harvest_scythes.elven_silver_machete": "精灵银砍刀",
+  "item.harvest_scythes.dwarven_bronze_machete": "矮人青铜砍刀",
+  "item.harvest_scythes.triton_prismarine_machete": "海神海晶石砍刀",
+  "item.harvest_scythes.mithril_machete": "秘银砍刀",
+  
+  "item.harvest_scythes.copper_machete": "铜砍刀",
+  "item.harvest_scythes.bronze_machete": "青铜砍刀",
+  "item.harvest_scythes.steel_machete": "钢砍刀",
+  "item.harvest_scythes.alexandrite_machete": "亚历山大石镰刀",
+
+  "item.harvest_scythes.kunzite_machete": "坤晶镰刀",
+  "item.harvest_scythes.carbonado_machete": "碳化镰刀",
+  "item.harvest_scythes.citrine_machete": "黄水晶镰刀",
+  "item.harvest_scythes.corundum_machete": "刚玉镰刀",
+  "item.harvest_scythes.emerald_machete": "翡翠镰刀",
+  "item.harvest_scythes.ruby_machete": "红宝石镰刀",
+  "item.harvest_scythes.spinel_machete": "尖晶石镰刀",
+  "item.harvest_scythes.sapphire_machete": "蓝宝石镰刀",
+  "item.harvest_scythes.topaz_machete": "黄玉镰刀",
+  "item.harvest_scythes.tourmaline_machete": "电气石镰刀",
+  "item.harvest_scythes.moissanite_machete": "莫桑石镰刀",
+
+  "item.harvest_scythes.adamantite_machete": "精金镰刀",
+  "item.harvest_scythes.aquarium_machete": "铀矿镰刀",
+  "item.harvest_scythes.banglum_machete": "铜钴镰刀",
+  "item.harvest_scythes.carmot_machete": "卡莫特镰刀",
+  "item.harvest_scythes.celestium_machete": "天蓝镰刀",
+  "item.harvest_scythes.durasteel_machete": "耐钢镰刀",
+  "item.harvest_scythes.hallowed_machete": "神圣镰刀",
+  "item.harvest_scythes.kyber_machete": "凯伯镰刀",
+  "item.harvest_scythes.metallurgium_machete": "冶金镰刀",
+  "item.harvest_scythes.mythril_machete": "秘银镰刀",
+  "item.harvest_scythes.orichalcum_machete": "山铜镰刀",
+  "item.harvest_scythes.osmium_machete": "锇金镰刀",
+  "item.harvest_scythes.palladium_machete": "钯金镰刀",
+  "item.harvest_scythes.prometheum_machete": "普罗米修斯镰刀",
+  "item.harvest_scythes.quadrillum_machete": "四重奏镰刀",
+  "item.harvest_scythes.runite_machete": "符文镰刀",
+  "item.harvest_scythes.star_platinum_machete": "星之白金镰刀",
+  "item.harvest_scythes.stormyx_machete": "暴风玄武镰刀",
+  "item.harvest_scythes.astrite_machete": "星萤石砍刀",
+    
+  "item.harvest_scythes.nm_kunzite_machete": "紫晶石砍刀",
+  "item.harvest_scythes.stibnite_machete": "锑矿石砍刀",
+  "item.harvest_scythes.thounite_machete": "桐石砍刀",
+  "item.harvest_scythes.uvarovite_machete": "翠铬石砍刀",
+
+  "item.harvest_scythes.peridot_machete": "橄榄石砍刀",
+
+  "item.harvest_scythes.diamold_machete": "钻石合金砍刀",
+
+  "item.harvest_scythes.batet_machete": "巴特砍刀",
+  "item.harvest_scythes.luss_machete": "鹿斯砍刀",
+  "item.harvest_scythes.vuld_machete": "伏德砍刀",
+
+  "item.harvest_scythes.flint_machete": "燧石砍刀",
+
+  "item.harvest_scythes.cryomarble_machete": "冰晶大理石砍刀",
+
+  "itemGroup.harvest_scythes.scythes": "镰刀",
+  "itemGroup.harvest_scythes.machetes": "砍刀",
+
+  "enchantment.harvest_scythes.crop_reaper": "收获增效",
+  "enchantment.harvest_scythes.leaf_eater": "叶片噬食",
+  "enchantment.harvest_scythes.blind_harvest_curse": "盲目收获诅咒",
+
+  "enchantment.harvest_scythes.crop_reaper.desc": "增加收割范围",
+  "enchantment.harvest_scythes.leaf_eater.desc": "摧毁相连的树叶",
+  "enchantment.harvest_scythes.blind_harvest_curse.desc": "这是成熟的吗？"
+}

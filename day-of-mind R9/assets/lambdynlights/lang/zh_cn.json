@@ -1,0 +1,21 @@
+{
+  "lambdynlights.menu.light_sources": "动态光源",
+  "lambdynlights.menu.title": "LambDynamicLights 设置",
+  "lambdynlights.menu.canvas.1": "建议在 Canvas 中禁用实体的动态光照!",
+  "lambdynlights.menu.canvas.2": "使用 Canvas 动态光照目前会影响游戏性能!",
+  "lambdynlights.menu.tabs.general": "通用",
+  "lambdynlights.option.light_sources.block_entities": "方块实体",
+  "lambdynlights.option.light_sources.entities": "实体",
+  "lambdynlights.option.light_sources.self": "第一人称",
+  "lambdynlights.option.light_sources.water_sensitive_check": "水敏感光源检测",
+  "lambdynlights.option.mode": "动态光照",
+  "lambdynlights.tooltip.block_entities": "启用方块实体的动态光照。",
+  "lambdynlights.tooltip.creeper_lighting": "设置苦力怕动态光照模式。\n- %s 禁用苦力怕动态光照。\n- %s 设置恒定亮度。\n- %s 设置动态亮度。",
+  "lambdynlights.tooltip.entities": "启用实体的动态光照。注意：玩家始终处于活动状态。",
+  "lambdynlights.tooltip.mode.1": "启用动态光照。例如，当玩家拿着火把时会照亮周围区域。",
+  "lambdynlights.tooltip.mode.2": "%s 和 %s 会稍有滞后，但可以最小化光更新。",
+  "lambdynlights.tooltip.mode.3": "%s 是平滑的动态光照。",
+  "lambdynlights.tooltip.self_light_source": "启用第一人称动态光照。如果您正在使用具有自己动态光照的着色器，建议禁用此功能。",
+  "lambdynlights.tooltip.tnt_lighting": "设置 TNT 动态光照模式。\n- %s 禁用 TNT 动态光照。\n- %s 设置恒定亮度。\n- %s 设置动态亮度。",
+  "lambdynlights.tooltip.water_sensitive": "启用水敏感光源检测。这意味着有些物品在被浸没在水中时不会发出光。"
+  }

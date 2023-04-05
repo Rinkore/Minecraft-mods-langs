@@ -1,0 +1,16 @@
+{
+	"item.greater_eye.greater_eye": "强化末影之眼",
+	"item.greater_eye.greater_eye_nether": "强化地狱末影之眼",
+	"item.greater_eye.greater_eye_end": "强化末地末影之眼",
+	"item.greater_eye.greater_eye.line1": "可以指示多种原版建筑物的位置",
+	"item.greater_eye.greater_eye.line2": "按住 Shift 键并右键切换建筑物",
+
+	"item.greater_eye.greater_eye.message1": "选择: %s",
+	"item.greater_eye.greater_eye.message2": "将搜寻: %s",
+	"item.greater_eye.greater_eye.message3": "最近的 %s 距离为 %s 个方块",
+	"item.greater_eye.greater_eye.message4": "发现 %s，距离为 %s 个方块",
+
+	"item.greater_eye.greater_eye.message5": "无法找到！建筑物可能不存在于此处。",
+		
+	"itemGroup.greater_eye": "强化末影之眼"
+}

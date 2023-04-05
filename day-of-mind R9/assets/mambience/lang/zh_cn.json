@@ -1,0 +1,39 @@
+{
+    "mambience.config.title": "MAmbience 客户端配置",
+
+    "mambience.config.enable": "启用",
+    "mambience.config.volume": "音量倍增器",
+
+    "mambience.config.sizex": "宽度",
+    "mambience.config.sizex.tooltip": "以玩家为中心的区域",
+    "mambience.config.sizey": "高度",
+    "mambience.config.sizey.tooltip": "以玩家为中心的区域",
+    "mambience.config.sizez": "长度",
+    "mambience.config.sizez.tooltip": "以玩家为中心的区域",
+
+    "mambience.config.general": "常规",
+    "mambience.config.general.note": "此配置仅适用于客户端。当 MAmbience 存在于服务器上时，将使用服务器配置！",
+    "mambience.config.general.debug": "调试日志记录",
+    "mambience.config.general.debug.tooltip": "仅有助于观察对事件/效果的更改的影响",
+
+    "mambience.config.ambient": "环境音效",
+    "mambience.config.ambient.note": "该系统根据玩家周围的方块和生物群系播放环境音效。有关声音定义，请参见附带的数据包。",
+    "mambience.config.ambient.stop": "在受限制时停止声音",
+    "mambience.config.ambient.stop.tooltip": "默认情况下禁用，因为效果会很突兀",
+    "mambience.config.ambient.disable_wind": "禁用风声",
+    "mambience.config.ambient.disable_wind.tooltip": "禁用使用DISABLE_WIND限制的所有事件",
+
+    "mambience.config.effects": "视觉效果",
+    "mambience.config.effects.note": "该系统使用粒子来创建基于方块的视觉效果（例如萤火虫、岩浆喷泉等）。有关效果定义，请参见附带的数据包。",
+    "mambience.config.effects.ticks": "随机刻数",
+    "mambience.config.effects.ticks.tooltip": "每个刻随机检查的方块数量",
+
+    "mambience.config.footsteps": "高级脚步声",
+    "mambience.config.footsteps.note": "该系统根据玩家行为播放更高级的脚步声（例如跳跃和落地声）。如果您使用Presence Footsteps，请禁用此项。有关声音和材料定义，请参见附带的数据包。",
+
+    "mambience.config.scanner": "扫描仪",
+    "mambience.config.scanner.note": "控制检查方块和生物群系的大小和间隔，以确定其他系统中的效果。减小大小可以提高性能，但准确性会降低。",
+    "mambience.config.scanner.interval": "刻数间隔",
+    "mambience.config.scanner.interval.tooltip": "控制完全周围扫描之间的时间间隔"
+
+}

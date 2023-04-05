@@ -1,0 +1,18 @@
+{
+    "item.simple_backpack.backpack_new": "测试背包",
+    "container.simple_backpack.backpack_new": "简易背包",
+    "item.simple_backpack.backpack": "背包",
+    "container.simple_backpack.backpack": "简易背包",
+    "item.simple_backpack.void_pack": "虚空背包",
+    "container.simple_backpack.void_pack": "警告！！！物品将被永久丢失",
+    "item.simple_backpack.ender_pack": "末影背包",
+    "container.simple_backpack.ender_pack": "便携末影箱",
+    "item.simple_backpack.simple_bundle": "简易捆绑包",
+    "item.simple_backpack.simple_bundle.tip1": "潜行+右键将所有内容倒在地上",
+    "item.simple_backpack.void_bundle": "虚空捆绑包",
+    "item.simple_backpack.void_bundle.tip1": "用于垃圾处理的捆绑包",
+    "item.simple_backpack.void_bundle.tip2": "潜行+右键销毁捆绑包内容",
+    "item.simple_backpack.portable_crafter": "便携工作台",
+    "container.simple_backpack.portable_crafter": "随身手工制作",
+    "itemGroup.simple_backpack.simple_backpack_group": "简易背包"
+    }

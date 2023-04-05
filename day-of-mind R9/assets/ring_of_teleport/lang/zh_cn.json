@@ -1,0 +1,13 @@
+{
+	"item.ring_of_teleport.ring_of_teleport": "传送戒指",
+	"item.ring_of_teleport.ring_of_teleport.tip1": "传送到储存的位置",
+	"item.ring_of_teleport.ring_of_teleport.tip2": "蹲下 + 右键点击一个方块以设置位置",
+	"item.ring_of_teleport.ring_of_teleport.tip3": "蹲下 + 右键指向天空以清除位置",
+	"item.ring_of_teleport.ring_of_teleport.tip4": "右键使用以传送",
+	"item.ring_of_teleport.ring_of_teleport.tip5": "储存的位置： %s %s %s %s",
+	"item.ring_of_teleport.ring_of_teleport.tip6": "位置已设置为： %s",
+	"item.ring_of_teleport.ring_of_teleport.tip7": "位置已经设置为： %s",
+	"item.ring_of_teleport.ring_of_teleport.tip8": "位置已清除。",
+	"item.ring_of_teleport._ring_of_teleport.tip9": "不支持的维度",
+	"itemGroup.ring_of_teleport": "传送戒指"
+}

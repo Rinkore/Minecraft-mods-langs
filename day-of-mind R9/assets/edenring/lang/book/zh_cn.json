@@ -1,0 +1,688 @@
+{
+	"lineNumberPrefix": "§8",
+	"pages": [
+		{
+			"entries": [
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/planet_logo.png",
+					"width": 128,
+					"height": 128,
+					"centered": true
+				}
+			]
+		},
+		{
+			"name": "table_of_contents",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l目录"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/separator.png",
+					"width": 128,
+					"height": 16
+				},
+				{
+					"type": "hyperText",
+					"lines": [
+						{
+							"text": "§3● §l伊甸世界",
+							"link": "world_structure"
+						},
+						{
+							"text": "§3● §l重力",
+							"link": "eden_gravity"
+						},
+						{
+							"text": "§3● §l生物群系",
+							"link": "eden_biomes"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "world_structure",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l描述"
+				},
+				{
+					"type": "text",
+					"text": [
+						"§3名称：§8伊甸园",
+						"§3质量：§828.5 E\u03BC",
+						"§3等级：§8冰巨星",
+						"§3大气层：",
+						"§3 §862% 氮",
+						"§3 §818% 水",
+						"§3 §812% 氨",
+						"§3 §805% 氢",
+						"§3 §803% 其他",
+						"§3卫星：",
+						"§3 §88个内卫星",
+						"§3 §8环系统"
+					]
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/separator.png",
+					"width": 128,
+					"height": 16
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8Eden是一颗环绕F2恒星运转的巨大的蓝色气态行星。该行星位于宜居带，但不适合生命存在。然而，其环系具有一些引力异常和类似于地球的大气层。环系统是独特生命和各种资源、生态系统和生物体的家园。"
+				}
+			]
+		},
+		{
+			"name": "eden_gravity",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§lEden引力"
+				},
+				{
+					"type": "text",
+					"text": "§8环内的引力是异常引力场扭曲的结果。引力异常是由特定材料引起的，这种材料只能在环内找到——Gravilite（引力石）"
+				},
+				{
+					"type": "icon",
+					"height": 32,
+					"item": "edenring:gravilite_block"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8Gravilite是一种蓝色晶体状材料，其形态在环中很常见。大多数形态看起来像是竖直定向的晶体簇。一些簇周围有小的形态。"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/gravilite_crystals.png",
+					"width": 48,
+					"height": 48
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8Gravilite是一种有用的材料，可以用来构建可以改变重力的机器 - 重力压缩机。它可以使用红石信号来反转其上方的重力方向，其功率将影响距离。"
+				},
+				{
+					"type": "icon",
+					"height": 32,
+					"item": "edenring:gravity_compressor"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8Gravilite可以用作装饰材料。这些晶体会发出光，非常适合用于灯笼。"
+				},
+				{
+					"type": "icon",
+					"height": 32,
+					"item": "edenring:gravilite_lamp"
+				},
+				{
+					"type": "icon",
+					"height": 32,
+					"item": "edenring:gravilite_lantern"
+				}
+			]
+		},
+		{
+			"name": "eden_biomes",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l伊甸园生物群系"
+				},
+				{
+					"type": "text",
+					"text": "§8伊甸园的环有许多小区域，其条件各不相同。因此，环不同部分的生命形成了不同的生态系统和生物群系。"
+				},
+				{
+					"type": "text",
+					"text": "§8有三个大的生物群系组："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 - 陆地生物群系",
+						"§8 - 虚空生物群系",
+						"§8 - 洞穴生物群系"
+					]
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l已知陆地生物群系"
+				},
+				{
+					"type": "hyperText",
+					"lines": [
+						{
+							"text": "§3 ● 暴风区",
+							"link": "biome_brainstorm"
+						},
+						{
+							"text": "§3 ● 金森林",
+							"link": "biome_golden_forest"
+						},
+						{
+							"text": "§3 ● 石头花园",
+							"link": "biome_stone_garden"
+						},
+						{
+							"text": "§3 ● 湖畔沙漠",
+							"link": "biome_lakeside_desert"
+						},
+						{
+							"text": "§3 ● 菌物森林",
+							"link": "biome_mycotic_forest"
+						},
+						{
+							"text": "§3 ● 古菌物森林",
+							"link": "biome_old_mycotic_forest"
+						},
+						{
+							"text": "§3 ● 脉冲森林",
+							"link": "biome_pulse_forest"
+						}
+					]
+				},
+				{
+					"type": "title",
+					"title": "§8§l已知虚空生物群系"
+				},
+				{
+					"type": "hyperText",
+					"lines": [
+						{
+							"text": "§3 ● 空气海洋",
+							"link": "biome_air_ocean"
+						},
+						{
+							"text": "§3 ● 天空殖民地",
+							"link": "biome_sky_colony"
+						}
+					]
+				},
+				{
+					"type": "title",
+					"title": "§8§l已知洞穴生物群系"
+				},
+				{
+					"type": "hyperText",
+					"lines": [
+						{
+							"text": "§8 ● 空洞洞穴",
+							"link": "biome_empty_cave"
+						},
+						{
+							"text": "§8 ● 侵蚀洞穴",
+							"link": "biome_eroded_cave"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_brainstorm",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§lBrainstorm Biome"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_brainstorm.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8Brainstorm生态系统是在具有大量金属的区域形成的。该生态系统中的植物适应了这些条件并带有金属质量。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8这些植物在环境中形成了独特的气候，具有巨大的蒸发量和无尽的风暴。在此生态系统中生长的树木可以积累大量电荷并将其释放到任何附近的生物体中。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8在探索期间要小心并穿戴金属制的盔甲，它可以作为法拉第笼保护你。"
+				},
+				{
+					"type": "title",
+					"title": "§8§l适合的金属："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 - 铁",
+						"§8 - 金",
+						"§8 - 下界合金"
+					]
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§lCommon Plants:"
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● Copper Brain Tree",
+						"§8 ● Iron Brain Tree",
+						"§8 ● Gold Brain Tree",
+						"§8 ● Tall Copper Grass",
+						"§8 ● Tall Iron Grass",
+						"§8 ● Tall Gold Grass",
+						"§8 ● Copper Grass",
+						"§8 ● Iron Grass",
+						"§8 ● Gold Grass"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_golden_forest",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§lGolden Forest Biome"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_golden_forest.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8Golden Forest is a biome that looks similar to Overworld forests during autumn, but this is only a visual match."
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8The climate in this biome is moderate and the plants have a yellow-colored photosynthetic pigment."
+				},
+				{
+					"type": "title",
+					"title": "§8§lCommon Plants:"
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● Auritis Tree",
+						"§8 ● Golden Grass",
+						"§8 ● Eden Vine",
+						"§8 ● MC Grass",
+						"§8 ● Parignum"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_stone_garden",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l石园生态"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_stone_garden.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8石园生态包含了在该地区风蚀形成的不同岩石形态。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8该生态中的植物生活由小型植物和苔藓组成。您可以在这里找到一些有用的植物，但该生态几乎是一个开放空间。"
+				},
+				{
+					"type": "title",
+					"title": "§8§l常见植物："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ●伊甸葡萄",
+						"§8 ●伊甸苔藓",
+						"§8 ●紫花菜",
+						"§8 ●枯叶花",
+						"§8 ●MC苔藓",
+						"§8 ●MC草",
+						"§8 ●树干藤蔓",
+						"§8 ●悬根"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_lakeside_desert",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l湖畔沙漠"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_lakeside_desert.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8湖畔沙漠是由在其中生长的植物Aquatus形成的生态。该植物缓慢地从土地上吸收水分。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8并将可用的土地转化为沙子和碎石。"
+				},
+				{
+					"type": "title",
+					"title": "§8§l常见植物："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● 水菇",
+						"§8 ● 枯灌木"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_mycotic_forest",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l真菌森林"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_mycotic_forest.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8真菌森林生态是由大型类似蘑菇的生物形成的，形成了独特的景观。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8这些植物被称为“气球菇”，它们的盖子内部填充了轻质气体，支撑着自己的生长。"
+				},
+				{
+					"type": "text",
+					"text": "§8气球菇盖子方块可以被放置在空中，这对建筑非常有用。"
+				},
+				{
+					"type": "text",
+					"text": "§8高大的气球菇可以用来获得一些木棒或种植更多的蘑菇。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8气球蘑菇可以生长成更大的变种，但这个过程需要一些施肥。骨粉可以帮助开始这个过程。"
+				},
+				{
+					"type": "text",
+					"text": "§8要生长气球蘑菇树或高气球蘑菇，需要在伊甸菌丝上的小气球蘑菇上使用骨粉。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l常见植物："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● 气球蘑菇树",
+						"§8 ● 高气球蘑菇",
+						"§8 ● 小气球蘑菇",
+						"§8 ● 高菌蒻草",
+						"§8 ● 菌蒻草",
+						"§8 ● 枯草",
+						"§8 ● MC草"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_old_mycotic_forest",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l古老的菌蒻森林"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_old_mycotic_forest.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8古老的菌蒻森林是菌蒻森林生物群系的一个变种，有非常古老的树木和完整的菌蒻生态系统。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8Old Balloon trees have more unique blocks than ordinary trees - they have branches, mycotic lanterns, and sporocarp blocks. The last two blocks can be painted into 16 colors and used in decoration."
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8To grow an Old Balloon Mushroom tree, you need to plant Small Balloon Mushrooms in a 2x2 shape on Eden Mycelium and use bonemeal on them."
+				},
+				{
+					"type": "text",
+					"text": "§8If there is not enough space or not all conditions are met, you may get an ordinary Balloon Mushroom tree or a Tall Balloon Mushroom instead."
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§lCommon Plants:"
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● Old Balloon Mushroom tree",
+						"§8 ● Balloon Mushroom tree",
+						"§8 ● Tall Balloon Mushroom",
+						"§8 ● Small Balloon Mushroom",
+						"§8 ● Tall Mycotic Grass",
+						"§8 ● Mycotic Grass",
+						"§8 ● Limphium"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_pulse_forest",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§lPulse Forest"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_pulse_forest_day.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_pulse_forest_night.png",
+					"width": 120,
+					"height": 60
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "text",
+					"text": "§8这个生物群系是一个由木质茎和大型蘑菇状盖子构成的大型竹子植物森林。所有植物都有同步的生物发光脉冲，形成了这个地方独特的外观。"
+				},
+				{
+					"type": "title",
+					"title": "§8§l常见植物："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● 脉冲树",
+						"§8 ● 发光菌",
+						"§8 ● MC草"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_air_ocean",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l空气海洋"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_air_ocean.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8空气海洋是岛屿之间的一个大型空旷空间，充满了空气。"
+				},
+				{
+					"type": "title",
+					"title": "§8§l常见动物："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● 圆盘翼龙"
+					]
+				}
+			]
+		},
+		{
+			"name": "biome_sky_colony",
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l天空殖民地"
+				},
+				{
+					"type": "illustration",
+					"image": "edenring:textures/gui/illustrations/biome_sky_colony.png",
+					"width": 120,
+					"height": 60
+				},
+				{
+					"type": "text",
+					"text": "§8这个生物群系充满了类似于大型殖民小球藻的有机体。每个殖民群落都有独特的小生态系统和其中的水。"
+				}
+			]
+		},
+		{
+			"entries": [
+				{
+					"type": "title",
+					"title": "§8§l常见植物："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● 小球藻",
+						"§8 ● 共生霉菌",
+						"§8 ● 硬叶草",
+						"§8 ● 伊甸藤蔓"
+					]
+				},
+				{
+					"type": "title",
+					"title": "§8§l常见动物："
+				},
+				{
+					"type": "text",
+					"text": [
+						"§8 ● 圆盘翅膀"
+					]
+				}
+			]
+		},
+		{
+			"entries": []
+		}
+	]
+}

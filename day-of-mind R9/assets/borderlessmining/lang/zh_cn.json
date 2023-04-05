@@ -1,0 +1,21 @@
+{
+  "text.borderlessmining.videomodename": "无边框窗口化",
+  "config.borderlessmining.title": "无边框窗口化配置",
+  "config.borderlessmining.general": "常规",
+  "config.borderlessmining.general.enabled": "无边框全屏",
+  "config.borderlessmining.general.enabled.tooltip": "开启全屏时切换到无边框全屏窗口",
+  "config.borderlessmining.general.videomodeoption": "全屏分辨率选项",
+  "config.borderlessmining.general.videomodeoption.tooltip": "添加一个选项到全屏分辨率滑块，以启用该模组",
+  "config.borderlessmining.general.forcemonitor": "监视器",
+  "config.borderlessmining.general.forcemonitor.current": "当前",
+  "config.borderlessmining.general.enabledmac": "在 macOS 上启用",
+  "config.borderlessmining.general.enabledmac.tooltip": "在 macOS 上默认禁用，因为它具有更好的原生全屏支持；在其他系统上，此选项不起作用",
+  "config.borderlessmining.dimensions": "尺寸",
+  "config.borderlessmining.dimensions.enabled": "使用自定义尺寸",
+  "config.borderlessmining.dimensions.monitorcoordinates": "使用监视器相对坐标",
+  "config.borderlessmining.dimensions.monitorcoordinates.tooltip": "使用相对于监视器的坐标，而不是绝对坐标",
+  "config.borderlessmining.dimensions.x": "X 坐标",
+  "config.borderlessmining.dimensions.y": "Y 坐标",
+  "config.borderlessmining.dimensions.width": "宽度",
+  "config.borderlessmining.dimensions.height": "高度"
+}

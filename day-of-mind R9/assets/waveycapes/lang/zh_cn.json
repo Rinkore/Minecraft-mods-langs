@@ -1,0 +1,20 @@
+{
+    "text.wc.title": "飘扬披风设置",
+    "text.wc.setting.capestyle": "披风样式",
+    "text.wc.setting.capestyle.tooltip": "在流畅弯曲和方块状披风之间切换。",
+    "text.wc.setting.capestyle.BLOCKY": "块状",
+    "text.wc.setting.capestyle.SMOOTH": "流畅弯曲",
+    "text.wc.setting.windmode": "风模式",
+    "text.wc.setting.windmode.tooltip": "为披风添加额外的运动。",
+    "text.wc.setting.windmode.NONE": "无风",
+    "text.wc.setting.windmode.WAVES": "波浪",
+    "text.wc.setting.capemovement": "披风运动",
+    "text.wc.setting.capemovement.tooltip": "更改披风的行为方式。",
+    "text.wc.setting.capemovement.VANILLA": "经典",
+    "text.wc.setting.capemovement.BASIC_SIMULATION": "模拟",
+    "text.wc.setting.capemovement.BASIC_SIMULATION_3D": "模拟 V2",
+    "text.wc.setting.gravity": "重力",
+    "text.wc.setting.gravity.tooltip": "更改应用于披风的重力量。",
+    "text.wc.setting.heightMultiplier": "高度倍增器",
+    "text.wc.setting.heightMultiplier.tooltip": "更改披风对Y轴运动的反应程度。"
+}

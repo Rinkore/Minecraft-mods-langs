@@ -1,0 +1,23 @@
+{
+  "effective.subtitles.ambience.waterfall": "瀑布声",
+  "effective.midnightconfig.title": "生效配置",
+  "effective.midnightconfig.enableSplashes": "启用水花",
+  "effective.midnightconfig.splashRimAlpha": "水花边缘透明度",
+  "effective.midnightconfig.enableCascades": "启用瀑布",
+  "effective.midnightconfig.shouldFlowingWaterSpawnParticlesOnFirstTick": "流动的水在第一次方块更新时是否应生成粒子",
+  "effective.midnightconfig.lapisBlockUpdateParticleChance": "青金石方块更新时生成粒子的几率",
+  "effective.midnightconfig.cascadeSoundDistanceBlocks": "听到瀑布声的距离 [方块]",
+  "effective.midnightconfig.cascadeSoundsVolumeMultiplier": "瀑布声音量倍增器",
+  "effective.midnightconfig.rainRippleDensity": "雨滴落下时水面波纹密度",
+  "effective.midnightconfig.flowingWaterSplashingDensity": "流动的水在方块更新时生成水花的密度",
+  "effective.midnightconfig.enableGlowingPlankton": "夜晚启用温暖海洋中发光浮游生物的水花和波纹",
+  "effective.midnightconfig.glowsquidHypnotize": "启用萤石墨鱼催眠",
+  "effective.midnightconfig.glowsquidHypnotizeAttractCursor": "启用萤石墨鱼吸引光标（需要萤石墨鱼催眠）",
+  "effective.midnightconfig.enableAllayTrails": "启用护盾虫尾迹",
+  "effective.midnightconfig.allayTwinkleDensity": "护盾虫尾迹闪烁密度（需要护盾虫尾迹）",
+  "effective.midnightconfig.goldenAllays": "启用金护盾虫",
+  "effective.midnightconfig.wardenScreenShake": "启用监视者咆哮时屏幕震动",
+  "effective.midnightconfig.sonicBoomScreenShake": "启用监视者音爆时屏幕震动",
+  "effective.midnightconfig.ravagerScreenShake": "启用破坏者咆哮时屏幕震动",
+  "effective.midnightconfig.dragonScreenShake": "启用末影龙栖息时咆哮时屏幕震动"
+  }

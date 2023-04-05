@@ -1,0 +1,430 @@
+{
+  "origin.medievalorigins.arachnae.name": "蛛人",
+  "origin.medievalorigins.arachnae.description": "蛛人是人类和蜘蛛的混血儿，体型像人类一样大，但具有蜘蛛的灵巧和敏捷。但是，这可能会出什么问题？",
+  
+  "origin.medievalorigins.banshee.name": "女妖",
+  "origin.medievalorigins.banshee.description": "女妖是一种能够发出尖叫声的灵魂，其声音可以打碎玻璃并迫使人们自杀。在神话中，女妖也被视为死亡的征兆。",
+  
+  "origin.medievalorigins.daemon.name": "恶魔",
+  "origin.medievalorigins.daemon.description": "恶魔是撒旦的仆从。这使得他们拥有众多的优势，但也可能导致他们的失败。",
+  
+  "origin.medievalorigins.dwarf.name": "矮人",
+  "origin.medievalorigins.dwarf.description": "矮人是生活在地下的矮小人类。他们擅长采矿，但在地面上生存却有问题。",
+  
+  "origin.medievalorigins.elf.name": "精灵",
+  "origin.medievalorigins.elf.description": "精灵是森林里聪明、长寿的居民。他们在远距离的箭术技巧在战斗中非常有用，但在近战中的脆弱则成为问题。",
+  
+  "origin.medievalorigins.fae.name": "妖精",
+  "origin.medievalorigins.fae.description": "妖精是拥有魔法能力的存在，比普通人类能够做得更多。这是一种祝福还是诅咒？这取决于你的决定......",
+
+  "origin.medievalorigins.goblin.name": "地精",
+  "origin.medievalorigins.goblin.description": "阴险、贪婪的地精在一对一的战斗中表现出色，并从他们杀死的任何敌人身上获得更多的战利品，但他们身材矮小在面对一群敌人时成为问题。",
+
+  "origin.medievalorigins.gorgon.name": "蛇发女怪",
+  "origin.medievalorigins.gorgon.description": "蛇发女怪会把她们的敌人变成石头。然而，无法直视任何人的生活也有后果......",
+
+  "origin.medievalorigins.knight.name": "骑士",
+  "origin.medievalorigins.knight.description": "骑士是勇敢的英雄，不知疲倦地保护着这片土地。",
+
+  "origin.medievalorigins.necromancer.name": "死灵法师",
+  "origin.medievalorigins.necromancer.description": "学会了唤起死者的艺术，死灵法师可以从无中筑起一支军队。然而，这种与死亡的不健康关系也有后果......",
+
+  "origin.medievalorigins.ogre.name": "食人魔",
+  "origin.medievalorigins.ogre.description": "身材高大且坚不可摧，食人魔是凶猛的生物，拥有高大的身材。然而，他们的食欲是无法满足的，他们的身材往往是一种阻碍和帮助并存的状态。",
+
+  "origin.medievalorigins.paladin.name": "圣骑士",
+  "origin.medievalorigins.paladin.description": "作为上帝的战士，圣骑士在与世界上卑鄙的不死生物的战斗中表现出色。然而，他们的神圣使他们容易受到这些同样的生物的攻击......",
+
+  "origin.medievalorigins.pixie.name": "小精灵",
+  "origin.medievalorigins.pixie.description": "恶作剧的代理人，或者是好运的先兆？谁说你不能两者兼备！",
+
+  "origin.medievalorigins.plague_victim.name": "瘟疫受害者",
+  "origin.medievalorigins.plague_victim.description": "瘟疫的携带者，影响受害者的日常生活但不致于致命。如果使用得当，可以成为对抗敌人的强大武器。",
+  
+  "origin.medievalorigins.siren.name": "塞壬",
+  "origin.medievalorigins.siren.description": "塞壬拥有一种迷人的美丽和邪恶的本质，它们无法抵挡的美貌是许多水手的毁灭。你需要充分利用这种力量。",
+  
+  "origin.medievalorigins.troll.name": "巨魔",
+  "origin.medievalorigins.troll.description": "山中的大型笨拙野兽，巨魔是这片土地上最大、最坏的恶棍。但是，这种体型可能成为它们的劣势吗？",
+  
+  "origin.medievalorigins.werewolf.name": "狼人",
+  "origin.medievalorigins.werewolf.description": "凶猛的动物，或者有着被误解的病症的人？狼人可以是两者之一，你会选择哪条路？",
+  
+  "origin.medievalorigins.yeti.name": "雪人",
+  "origin.medievalorigins.yeti.description": "冰冷山峰上的笨重巨人，雪人的冰冷本质可以阻止几乎任何敌人，但可能使它们容易受到火攻击的伤害。",
+  
+  "power.medievalorigins.arachnae/bottomless_stomach.name": "无底胃",
+  "power.medievalorigins.arachnae/bottomless_stomach.description": "一个人形大小的蜘蛛不是没有代价的。维持蛛人的生命需要大量的食物。",
+  
+  "power.medievalorigins.arachnae/brittle.name": "易碎",
+  "power.medievalorigins.arachnae/brittle.description": "蛛人的外骨骼无法承受比铁更重的盔甲。",
+  
+  "power.medievalorigins.arachnae/climber.name": "攀爬者",
+  "power.medievalorigins.arachnae/climber.description": "蛛人腿上的细毛使其能够攀爬墙壁。",
+  
+  "power.medievalorigins.arachnae/fragile_exoskeleton.name": "脆弱外骨骼",
+  "power.medievalorigins.arachnae/fragile_exoskeleton.description": "蛛人的外骨骼容易受到伤害。它们的生命值比普通人低。",
+  
+  "power.medievalorigins.arachnae/many_eyes.name": "多眼",
+  "power.medievalorigins.arachnae/many_eyes.description": "蛛人的八只眼睛都适应黑暗，并能在极低光照条件下清晰地看见。",
+  
+  "power.medievalorigins.arachnae/venomous_bite.name": "剧毒咬",
+  "power.medievalorigins.arachnae/venomous_bite.description": "蛛人的毒牙中含有毒液，每次咬击都是毒害对手的机会。",
+  
+  "power.medievalorigins.arachnae/web_slinger.name": "吐网",
+  "power.medievalorigins.arachnae/web_slinger.description": "蛛人可以在命令下纺出网，使对手在短时间内无法移动。",
+
+  "power.medievalorigins.banshee/ethereal.name": "虚幻",
+  "power.medievalorigins.banshee/ethereal.description": "女妖拥有变得无形的能力，意味着它们不能受到物理界敌人的影响。当然，这是有冷却时间的。通过按下次要能力键激活。",
+  
+  "power.medievalorigins.banshee/flesheater.name": "食肉者",
+  "power.medievalorigins.banshee/flesheater.description": "女妖以生者的器官为食。它们的虚幻身体对水果或蔬菜没有需求。",
+  
+  "power.medievalorigins.banshee/hexed.name": "被咒诅的",
+  "power.medievalorigins.banshee/hexed.description": "女妖以其诅咒技巧而闻名。每次被击中时，攻击者会有一定的几率被陷入缓慢而痛苦的死亡命运中。",
+  
+  "power.medievalorigins.banshee/immaterial.name": "非物质的",
+  "power.medievalorigins.banshee/immaterial.description": "无形并不是没有代价的。女妖的生命值只有一个有生命的人的一半。",
+  
+  "power.medievalorigins.banshee/iron_aversion.name": "铁的厌恶",
+  "power.medievalorigins.banshee/iron_aversion.description": "铁对女妖是致命的。它们不能忍受穿戴它。",
+  
+  "power.medievalorigins.banshee/sonic_shriek.name": "超声尖啸",
+  "power.medievalorigins.banshee/sonic_shriek.description": "女妖以其超音速的尖叫声而闻名，可以使血管破裂。按 G 键，你将在短时间内造成更多的伤害。",
+
+  "power.medievalorigins.daemon/carnivore.name": "食肉动物",
+  "power.medievalorigins.daemon/carnivore.description": "恶魔的嗜血欲无法满足。如果不是动物的肉，就是没有价值的。",
+
+  "power.medievalorigins.daemon/daemon_fire.name": "恶魔之火",
+  "power.medievalorigins.daemon/daemon_fire.description": "充满撒旦力量的恶魔可以随意释放地狱的能量。使用次要能量键触发。",
+
+  "power.medievalorigins.daemon/hellborne.name": "来自地狱的",
+  "power.medievalorigins.daemon/hellborne.description": "当你生活在地狱深处时，火光对你来说微不足道。恶魔对火焰伤害免疫。",
+
+  "power.medievalorigins.daemon/hydrophobe.name": "恐水症",
+  "power.medievalorigins.daemon/hydrophobe.description": "当你一生都生活在岩浆中时，水似乎相当灼热。恶魔会因进入水中而受到伤害。",
+
+  "power.medievalorigins.daemon/impure.name": "不洁之物",
+  "power.medievalorigins.daemon/impure.description": "恶魔不会获得药水（如再生或即时治疗）的正面效果。",
+
+  "power.medievalorigins.daemon/overworld_weakness.name": "异世界的弱点",
+  "power.medievalorigins.daemon/overworld_weakness.description": "作为地狱的代理人，恶魔不习惯异世界的敌人，从而受到更多的伤害。",
+
+  "power.medievalorigins.daemon/unholy_deal.name": "邪恶协议",
+  "power.medievalorigins.daemon/unholy_deal.description": "恶魔可以通过和魔鬼的影响力交换一部分生命值以获得更强的力量。按G键触发。",
+
+  "power.medievalorigins.dwarf/darkness_dweller.name": "黑暗居民",
+  "power.medievalorigins.dwarf/darkness_dweller.description": "矮人适应黑暗生活，白天的阳光对他们的眼睛来说过于强烈，直到夜幕降临才能恢复视力。佩戴黄金头盔可以抵消这种影响。",
+  
+  "power.medievalorigins.dwarf/dense.name": "臃肿",
+  "power.medievalorigins.dwarf/dense.description": "尽管矮小，矮人的体重却相对沉重，因此不能游泳。",
+  
+  "power.medievalorigins.dwarf/dwarven_tech.name": "矮人科技",
+  "power.medievalorigins.dwarf/dwarven_tech.description": "矮人的技术可以使他们比其他生物更快地采矿。",
+  
+  "power.medievalorigins.dwarf/miniature.name": "小型",
+  "power.medievalorigins.dwarf/miniature.description": "矮人最引人注目的特点可能是他们的身材。他们比普通人矮得多。",
+  
+  "power.medievalorigins.dwarf/nocturnal_eyes.name": "夜行眼",
+  "power.medievalorigins.dwarf/nocturnal_eyes.description": "地下生活使矮人的眼睛高度敏感，即使在洞穴中完全黑暗的情况下也能看得很清楚。",
+  
+  "power.medievalorigins.dwarf/photoallergic.name": "光过敏",
+  "power.medievalorigins.dwarf/photoallergic.description": "矮人的皮肤不适合外界强烈的阳光，暴露在阳光下会燃烧。佩戴头盔可以预防这种情况。",
+  
+  "power.medievalorigins.dwarf/potent_brew.name": "烈酒",
+  "power.medievalorigins.dwarf/potent_brew.description": "矮人以其酒精摄入量而闻名。按G键可以饮用烈酒，使健康值恢复至满值。",
+
+  "power.medievalorigins.elf/archer.name": "弓箭手",
+  "power.medievalorigins.elf/archer.description": "精灵是专家射手。他们使用弓箭比其他生物造成更多的伤害。",
+
+  "power.medievalorigins.elf/forest_vision.name": "森林视觉",
+  "power.medievalorigins.elf/forest_vision.description": "在森林中生活数百年，让精灵比大多数生物更有黑暗中的感知能力。",
+
+  "power.medievalorigins.elf/hyper_sight.name": "超准视力",
+  "power.medievalorigins.elf/hyper_sight.description": "精灵的高度感知能力使他们能够在攻击敌人后一段时间内跟踪对方，即使对方不在视野中。",
+
+  "power.medievalorigins.elf/spindly.name": "纤细",
+  "power.medievalorigins.elf/spindly.description": "由于精灵纤细的体型，他们能够穿戴的最重的盔甲是锁子甲。",
+
+  "power.medievalorigins.elf/steward.name": "管家",
+  "power.medievalorigins.elf/steward.description": "精灵以森林和其果实为生。他们的消化系统无法处理肉类。",
+
+  "power.medievalorigins.elf/towering.name": "高大",
+  "power.medievalorigins.elf/towering.description": "精灵比普通人高得多。尽管如此，他们的体型仍然非常苗条。",
+
+  "power.medievalorigins.elf/weak_melee.name": "近战薄弱",
+  "power.medievalorigins.elf/weak_melee.description": "精灵适合远程作战，而不是近身格斗。他们使用剑和斧头的伤害会降低。",
+
+  "power.medievalorigins.fae/allure.name": "诱惑",
+  "power.medievalorigins.fae/allure.description": "妖精天生有吸引力。不幸的是，这意味着敌人会追逐他们远远超出其他生物的范围。",
+  
+  "power.medievalorigins.fae/diminutive.name": "小巧",
+  "power.medievalorigins.fae/diminutive.description": "妖精身高很少超过5英尺。它们是小型生物，甚至比黄鼠狼更小。",
+  
+  "power.medievalorigins.fae/iron_aversion.name": "铁的厌恶",
+  "power.medievalorigins.fae/iron_aversion.description": "铁会抑制妖精的力量。它们无法忍受穿戴铁制品。",
+  
+  "power.medievalorigins.fae/levitation.name": "飘浮",
+  "power.medievalorigins.fae/levitation.description": "妖精以其悬浮能力而闻名。按G键，你会开始悬浮。",
+  
+  "power.medievalorigins.fae/magic_resistance.name": "魔法抗性",
+  "power.medievalorigins.fae/magic_resistance.description": "作为魔法生物，妖精与其他生物相比受到的魔法伤害较少。",
+  
+  "power.medievalorigins.fae/regen.name": "再生",
+  "power.medievalorigins.fae/regen.description": "妖精是魔法生物。按下你的次要能力键，你会在短时间内恢复健康，代价是会消耗你的饥饿值。",
+
+  "power.medievalorigins.goblin/cunning.name": "狡猾",
+  "power.medievalorigins.goblin/cunning.description": "地精是狡猾的生物。他们的攻击比其他生物造成更多的伤害，并且从杀死生物中获得更多的战利品。",
+
+  "power.medievalorigins.goblin/frail.name": "脆弱",
+  "power.medievalorigins.goblin/frail.description": "身材小有其缺点。地精的最大生命值降低，因为他们的小尺寸使其易受伤。",
+
+  "power.medievalorigins.goblin/greedy.name": "贪婪",
+  "power.medievalorigins.goblin/greedy.description": "地精天生具有贪婪的性格。任何镀金的物品对他们的好处比其他生物更大。",
+
+  "power.medievalorigins.goblin/nippy.name": "灵活",
+  "power.medievalorigins.goblin/nippy.description": "虽然身材矮小，但地精绝对不是缓慢的。基础移动速度适度提高。",
+
+  "power.medievalorigins.goblin/stunted.name": "发育不良",
+  "power.medievalorigins.goblin/stunted.description": "地精的不良饮食和遗传使他们无法像其他生物那样长得高。",
+
+  "power.medievalorigins.gorgon/hydrophobe.name": "水恐惧症",
+  "power.medievalorigins.gorgon/hydrophobe.description": "蛇发女妖会因为它们天性的邪恶而受到水的伤害。它们无法忍受水的纯洁性。",
+  
+  "power.medievalorigins.gorgon/petrification.name": "石化",
+  "power.medievalorigins.gorgon/petrification.description": "蛇发女妖被诅咒在黑暗潮湿的洞穴中无法离开。在白天外面会导致它们变成石头，直到晚上才会解除。可以通过佩戴头盔来避免石化。",
+  
+  "power.medievalorigins.gorgon/serpentine_companions.name": "毒蛇伙伴",
+  "power.medievalorigins.gorgon/serpentine_companions.description": "每次蛇发女妖受到攻击时，它们有一定几率生成一只银鱼来为它们攻击。",
+  
+  "power.medievalorigins.gorgon/silver_aversion.name": "银制品不耐受",
+  "power.medievalorigins.gorgon/silver_aversion.description": "银制品是蛇发女妖唯一真正的弱点（铁的效果等同于银）。它们不能佩戴银制品装备。",
+  
+  "power.medievalorigins.gorgon/stony_gaze.name": "石化凝视",
+  "power.medievalorigins.gorgon/stony_gaze.description": "当一只生物攻击蛇发女妖时，有一定几率使其在短时间内无法移动。",
+  
+  "power.medievalorigins.gorgon/super_strength.name": "超自然力量",
+  "power.medievalorigins.gorgon/super_strength.description": "蛇发女妖以其超自然的力量而闻名。它们比其他生物具有更高的基础攻击力。",
+
+  "power.medievalorigins.knight/burdened.name": "负重",
+  "power.medievalorigins.knight/burdened.description": "由于穿着沉重的盔甲，骑士的移动速度降低。",
+  
+  "power.medievalorigins.knight/for_honour_and_glory.name": "为荣誉和荣耀",
+  "power.medievalorigins.knight/for_honour_and_glory.description": "没有闪亮的盔甲的骑士算什么？铁盔甲提供比其他生物更高的防御。",
+  
+  "power.medievalorigins.knight/magic_prone.name": "魔法易感",
+  "power.medievalorigins.knight/magic_prone.description": "高物理伤害抵抗力使得骑士自然而然地更容易受到更具灵魂特质的攻击。",
+  
+  "power.medievalorigins.knight/melee4ever.name": "永远的近战",
+  "power.medievalorigins.knight/melee4ever.description": "不擅长射箭的骑士无法使用弓箭。",
+  
+  "power.medievalorigins.knight/skilled_swordsman.name": "熟练剑士",
+  "power.medievalorigins.knight/skilled_swordsman.description": "骑士是训练有素的专业人士。他们使用剑的攻击造成更多伤害。",
+  
+  "power.medievalorigins.knight/valour.name": "英勇",
+  "power.medievalorigins.knight/valour.description": "骑士是勇敢的人。在他们垂死的时刻，他们比以往任何时候都更加拼命战斗。",
+
+  "power.medievalorigins.necromancer/black_thumb.name": "黑手",
+  "power.medievalorigins.necromancer/black_thumb.description": "死灵法师只与死亡打交道。他们无法收获任何庄稼，庄稼只要被他们碰到就会枯萎。",
+
+  "power.medievalorigins.necromancer/disturbed.name": "受惊的",
+  "power.medievalorigins.necromancer/disturbed.description": "学习死灵法术是一种创伤。死灵法师无法入睡，因为害怕梦见他们不愿意知道的事情。",
+
+  "power.medievalorigins.necromancer/hellraiser.name": "地狱使者",
+  "power.medievalorigins.necromancer/hellraiser.description": "死灵法师可以随意召唤一圈骷髅，挡住投射物并伤害其他对手。不幸的是，这只持续很短的时间。",
+
+  "power.medievalorigins.necromancer/impervious.name": "坚不可摧",
+  "power.medievalorigins.necromancer/impervious.description": "学习死亡之道让死灵法师免疫毒素、枯萎和即时伤害。不幸的是，这也意味着他们无法获得恢复和即时治疗的正面效果。",
+
+  "power.medievalorigins.necromancer/poor_reputation.name": "声名狼藉",
+  "power.medievalorigins.necromancer/poor_reputation.description": "不幸的是，黑暗艺术的学习者在普通民众中备受恐惧。村民将拒绝与死灵法师进行交易，铁傀儡会一见到他们就攻击他们。不过，这也意味着他们被盗贼的阵营接受。",
+
+  "power.medievalorigins.necromancer/resilient.name": "坚韧不拔",
+  "power.medievalorigins.necromancer/resilient.description": "了解死亡有助于避免它。死灵法师的生命值增加。",
+
+  "power.medievalorigins.necromancer/risk_of_transmission.name": "传染风险",
+  "power.medievalorigins.necromancer/risk_of_transmission.description": "与瘟疫受害者接触每次都有50/50的几率感染疾病。他们的对手最好祈祷他们能走运……",
+
+  "power.medievalorigins.necromancer/unguarded.name": "不防备",
+  "power.medievalorigins.necromancer/unguarded.description": "将自己包裹在奥术之中会让你在现实世界中更易受到攻击。大多数敌怪会对死灵法师造成更多的伤害。",
+
+  "power.medievalorigins.ogre/charge.name": "冲锋",
+  "power.medievalorigins.ogre/charge.description": "食量巨大的食人魔可以冲锋前进，穿过几个方块，但这会消耗饥饿值并使食人魔短暂变慢。",
+
+  "power.medievalorigins.ogre/gargantuan.name": "巨型生物",
+  "power.medievalorigins.ogre/gargantuan.description": "食人魔以其巨大的体型而著称，并且比大多数生物都要高（和宽）得多。",
+
+  "power.medievalorigins.ogre/lead_belly.name": "铅肚子",
+  "power.medievalorigins.ogre/lead_belly.description": "食人魔巨大的食量有时意味着不得不吃下一些不受欢迎的食物。因此，食人魔的胃已经进化到可以承受甚至最有毒的食物。",
+
+  "power.medievalorigins.ogre/ravenous.name": "饥饿",
+  "power.medievalorigins.ogre/ravenous.description": "一个如此巨大的生物需要大量食物来维持生命。食欲大大增加。",
+
+  "power.medievalorigins.ogre/sluggish.name": "缓慢",
+  "power.medievalorigins.ogre/sluggish.description": "食人魔不以其敏捷度而闻名，是陆地上最缓慢的生物之一。",
+
+  "power.medievalorigins.ogre/stocky.name": "矮胖",
+  "power.medievalorigins.ogre/stocky.description": "由于其巨大的体型，食人魔的生命值是普通玩家的2.5倍。",
+
+  "power.medievalorigins.ogre/xxxl.name": "超大码",
+  "power.medievalorigins.ogre/xxxl.description": "要找到一件XXXL尺码的盔甲相当困难。因此，食人魔只能穿弹性盔甲，如皮革和锁链甲。",
+
+  "power.medievalorigins.paladin/holy_curse.name": "圣诅咒",
+  "power.medievalorigins.paladin/holy_curse.description": "作为上帝的仆人，圣骑士不能接触不洁的生物，如不死生物，他们会受到更多的伤害。",
+  
+  "power.medievalorigins.paladin/holy_fire.name": "圣火",
+  "power.medievalorigins.paladin/holy_fire.description": "作为上帝的仆人，不死生物无法承受圣骑士的触碰，会在受到攻击时自燃。",
+  
+  "power.medievalorigins.paladin/holy_instruments.name": "圣器",
+  "power.medievalorigins.paladin/holy_instruments.description": "圣骑士手中的斧头是一件危险的武器。所有斧头造成的伤害都会增加，但剑造成的伤害会减少。",
+  
+  "power.medievalorigins.paladin/leech.name": "吸血",
+  "power.medievalorigins.paladin/leech.description": "每次击杀会回复圣骑士一个心的生命值。",
+  
+  "power.medievalorigins.paladin/well_built.name": "强健",
+  "power.medievalorigins.paladin/well_built.description": "整天穿着沉重的盔甲走动是一件繁琐的事情。圣骑士需要更多的食物来维持他们的体力。",
+  
+  "power.medievalorigins.pixie/curse_of_flight.name": "飞行诅咒",
+  "power.medievalorigins.pixie/curse_of_flight.description": "让小精灵飞行的翅膀也让最熟练的工匠无法制作适合它们的胸甲。",
+  
+  "power.medievalorigins.pixie/feather_footed.name": "轻盈之脚",
+  "power.medievalorigins.pixie/feather_footed.description": "小精灵的身材小巧轻盈，它们不可能受到坠落伤害。",
+  
+  "power.medievalorigins.pixie/flight.name": "飞行",
+  "power.medievalorigins.pixie/flight.description": "小精灵被赐予了飞行的能力。",
+  
+  "power.medievalorigins.pixie/good_fortunes.name": "好运",
+  "power.medievalorigins.pixie/good_fortunes.description": "虽然小精灵可能会惹麻烦，但它们也与好运相关。在挖掘时，你偶尔会从普通石头中获得一些有价值的东西。",
+  
+  "power.medievalorigins.pixie/mischief_maketh_man.name": "恶作剧成就人生",
+  "power.medievalorigins.pixie/mischief_maketh_man.description": "小精灵能够执行许多恶作剧，如果不危险，也肯定很吵闹。",
+  
+  "power.medievalorigins.pixie/pixie_properties.name": "小巧玲珑",
+  "power.medievalorigins.pixie/pixie_properties.description": "小精灵是地球上最小的生物之一，很少超过一个普通人的膝盖高度。",
+  
+  "power.medievalorigins.pixie/soaked.name": "湿淋淋",
+  "power.medievalorigins.pixie/soaked.description": "由于它们身材小巧，水对小精灵构成了重大威胁。水阻碍了它们的移动并损害了它们飞行的能力。",
+  
+  "power.medievalorigins.pixie/troublemaker.name": "捣蛋鬼",
+  "power.medievalorigins.pixie/troublemaker.description": "村民通过小精灵造成的麻烦传说来认识它们，他们拒绝与小精灵进行交易。",
+
+  "power.medievalorigins.plague_victim/contagious.name": "传染性",
+  "power.medievalorigins.plague_victim/contagious.description": "瘟疫高度传染。村民因担心染上瘟疫而拒绝与您交易。",
+
+  "power.medievalorigins.plague_victim/foul_aura.name": "恶臭气息",
+  "power.medievalorigins.plague_victim/foul_aura.description": "携带瘟疫的跳蚤会围绕受害者而集聚。与患者在一起会对健康产生不利影响。",
+
+  "power.medievalorigins.plague_victim/insomniac.name": "失眠症",
+  "power.medievalorigins.plague_victim/insomniac.description": "瘟疫造成的痛苦疹子使患者无法入睡。",
+
+  "power.medievalorigins.plague_victim/plague_immunity.name": "瘟疫免疫",
+  "power.medievalorigins.plague_victim/plague_immunity.description": "尽管瘟疫会影响携带者，但它们不会承受其症状的主要冲击。携带者对毒药和凋零无效。",
+
+  "power.medievalorigins.plague_victim/risk_of_transmission.name": "传播风险",
+  "power.medievalorigins.plague_victim/risk_of_transmission.description": "与瘟疫患者的每次接触都有50/50的几率是否会感染疾病。他们的对手最好祈祷他们能幸运地逃脱。",
+
+  "power.medievalorigins.plague_victim/sensitive_skin.name": "敏感肌肤",
+  "power.medievalorigins.plague_victim/sensitive_skin.description": "瘟疫会在皮肤上形成痛苦的疹子和溃疡。因此，受害者无法穿戴盔甲因为它会引起疼痛。",
+
+  "power.medievalorigins.plague_victim/skin_and_bones.name": "皮包骨",
+  "power.medievalorigins.plague_victim/skin_and_bones.description": "瘟疫会导致肌肉迅速萎缩，导致生命值和速度降低。",
+
+  "power.medievalorigins.siren/amphibious.name": "两栖",
+  "power.medievalorigins.siren/amphibious.description": "作为人鱼的一个子集，海妖可以在水中生存，并且能以更快的速度游泳。",
+  
+  "power.medievalorigins.siren/flammable.name": "易燃",
+  "power.medievalorigins.siren/flammable.description": "海妖和火焰不相容。任何接触火焰的情况都将导致瞬间死亡。在下界中要小心!",
+  
+  "power.medievalorigins.siren/holy_water.name": "神圣水",
+  "power.medievalorigins.siren/holy_water.description": "海妖具有再生能力，当他们在水中时这种能力能够充分发挥。",
+  
+  "power.medievalorigins.siren/out_of_your_depth.name": "不在水中",
+  "power.medievalorigins.siren/out_of_your_depth.description": "尽管海妖在陆地上也可以生存良好，但这不是它们的自然环境。因此，他们的再生能力不适用于陆地，而任何受到的伤害只能通过药水来治愈。",
+  
+  "power.medievalorigins.siren/prone.name": "脆弱",
+  "power.medievalorigins.siren/prone.description": "虽然海妖可以再生他们的身体，但它们对钝击力量很脆弱。近战攻击对它们造成的伤害更大。",
+  
+  "power.medievalorigins.siren/siren_song.name": "海妖之歌",
+  "power.medievalorigins.siren/siren_song.description": "海妖以其迷人的召唤声而闻名。按 G 键可以使周围的所有生物变为中立状态，直到受到攻击为止。（不适用于BOSS）",
+  
+  "power.medievalorigins.siren/water_vision.name": "水下视野",
+  "power.medievalorigins.siren/water_vision.description": "海妖具有比其他生物更出色的水下视野。",
+
+  "power.medievalorigins.troll/apex_predator.name": "顶级掠食者",
+  "power.medievalorigins.troll/apex_predator.description": "巨魔不能吃普通的食物，只能通过屠杀其他生物来满足他们的饥饿感。",
+
+  "power.medievalorigins.troll/ham_fisted.name": "蹄子似的拳头",
+  "power.medievalorigins.troll/ham_fisted.description": "巨大的食人魔拳头力量惊人，但太笨重了无法持盾。",
+  
+  "power.medievalorigins.troll/ironhide.name": "铁皮",
+  "power.medievalorigins.troll/ironhide.description": "食人魔有着极厚的皮肤，使它们天生拥有自然护甲和大量的生命值。",
+  
+  "power.medievalorigins.troll/lumbering.name": "笨重",
+  "power.medievalorigins.troll/lumbering.description": "当你像食人魔一样巨大时，你必须要承受自己沉重的体重。它们的移动速度明显比人类期望的要慢。",
+  
+  "power.medievalorigins.troll/mountainous.name": "山一样高",
+  "power.medievalorigins.troll/mountainous.description": "食人魔犹如它们所来自的山一样巨大，比普通人高出两倍。",
+  
+  "power.medievalorigins.troll/old_blood.name": "古老的血统",
+  "power.medievalorigins.troll/old_blood.description": "流淌在食人魔血脉中的古老血液与山脉紧密相连。它们无法在自己的山地之外自我治愈。",
+  
+  "power.medievalorigins.troll/out_of_stock.name": "缺货",
+  "power.medievalorigins.troll/out_of_stock.description": "尽管尽其所能，食人魔似乎永远无法找到适合自己的铠甲。因此，它们注定只能穿着大自然赐予它们的外皮而行走。",
+  
+  "power.medievalorigins.troll/rock_throw.name": "投石",
+  "power.medievalorigins.troll/rock_throw.description": "食人魔可以随意将一块大石头扔到空中，横扫所有阻挡在它们面前的障碍。但这需要牺牲64块珍贵的圆石。",
+  
+  "power.medievalorigins.troll/thunderous_stride.name": "雷鸣般的步伐",
+  "power.medievalorigins.troll/thunderous_stride.description": "食人魔带着目的前行。如果它们足够坚持，可以径直穿过任何可能跨越它们道路的障碍物。",
+
+  "power.medievalorigins.werewolf/carnivore.name": "食肉动物",
+  "power.medievalorigins.werewolf/carnivore.description": "狼人即使在未变形时也像狼一样进食。他们唯一能吃的食物是肉。",
+
+  "power.medievalorigins.werewolf/drained.name": "精疲力竭",
+  "power.medievalorigins.werewolf/drained.description": "晚上增强的能力很不幸会带来后果。白天，你的健康和力量会减少。",
+
+  "power.medievalorigins.werewolf/insatiable_hunger.name": "贪得无厌的饥饿感",
+  "power.medievalorigins.werewolf/insatiable_hunger.description": "狼人不断寻找下一顿饭。他们的食欲比普通人更大。",
+
+  "power.medievalorigins.werewolf/lycanthropy.name": "狼人病",
+  "power.medievalorigins.werewolf/lycanthropy.description": "导致狼人在晚上变成狼的病症。具有增加个人身高、力量和健康的效果。",
+
+  "power.medievalorigins.werewolf/silver_aversion.name": "银反感",
+  "power.medievalorigins.werewolf/silver_aversion.description": "狼人非常害怕银。他们不能忍受佩戴它。（铁代替银）",
+
+  "power.medievalorigins.yeti/flammable.name": "易燃的",
+  "power.medievalorigins.yeti/flammable.description": "由于其冬季的本质，雪人容易受到火焰伤害。",
+  
+  "power.medievalorigins.yeti/frigid_pulse.name": "寒冷脉冲",
+  "power.medievalorigins.yeti/frigid_pulse.description": "一股强大的魔力在雪人的血管中流动，使它们能够在命令下将一组敌人封入冰中。",
+  
+  "power.medievalorigins.yeti/from_whence_you_came.name": "归故乡",
+  "power.medievalorigins.yeti/from_whence_you_came.description": "雪人在它们起源的土地上生存得最好，它们在冰冷的生物群落中行动更快，而且可以在雪地上滑行以避免坠落伤害。",
+  
+  "power.medievalorigins.yeti/frosty_breath.name": "寒霜吐息",
+  "power.medievalorigins.yeti/frosty_breath.description": "雪人的寒霜吐息会减缓任何靠近它们的对手。",
+  
+  "power.medievalorigins.yeti/thick_fur.name": "浓厚的毛皮",
+  "power.medievalorigins.yeti/thick_fur.description": "浓厚毛皮的祝福在沙漠中变成了诅咒。你的移动速度会变慢，健康值降至普通人的水平。",
+  
+  "power.medievalorigins.yeti/titanic.name": "泰坦般的",
+  "power.medievalorigins.yeti/titanic.description": "雪人的健康值远高于普通人。",
+  
+  "power.medievalorigins.yeti/unstoppable.name": "不可阻挡的",
+  "power.medievalorigins.yeti/unstoppable.description": "雪人对减速效果免疫。",
+  
+  "power.medievalorigins.yeti/winter_body.name": "冬季之躯",
+  "power.medievalorigins.yeti/winter_body.description": "雪人略微比普通人高，显著地比普通人宽。",
+
+  "enchantment.medievalorigins.featherweight": "轻如鸿毛",
+
+  "medievalorigins.contagious_villager": "村民不想被感染！",
+
+  "medievalorigins.disturbed_restless": "你所知道的会杀了你，但你会死得很开心。",
+
+  "medievalorigins.insomniac_welts": "你的肿块刺痛灼伤，今晚你将无法入眠。",
+
+  "medievalorigins.poor_reputation_villager": "村民太害怕与你交易了！",
+
+  "medievalorigins.troublemaker": "村民不会与像你这样的人交易！"
+}

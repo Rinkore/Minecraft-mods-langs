@@ -1,0 +1,8 @@
+{
+	"item.ring_of_attraction.ring_of_attraction": "吸引戒指",
+	"item.ring_of_attraction.ring_of_attraction.line1": "一个简单的物品磁铁",
+	"item.ring_of_attraction.ring_of_attraction.line2": "右击切换开/关",
+	"item.ring_of_attraction.ring_of_attraction.line3": "吸引模式：%s",
+	"item.ring_of_attraction.ring_of_attraction.line4": "当前吸引范围：%s",
+	"itemGroup.ring_of_attraction": "吸引戒指"
+}

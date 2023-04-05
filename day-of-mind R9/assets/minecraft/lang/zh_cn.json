@@ -1,0 +1,10 @@
+{
+  "options.biomeBlendRadius.17": "17x17（大）",
+  "options.biomeBlendRadius.19": "19x19（非常大）",
+  "options.biomeBlendRadius.21": "21x21（巨大）",
+  "options.biomeBlendRadius.23": "23x23（令人晕眩的）",
+  "options.biomeBlendRadius.25": "25x25（极大）",
+  "options.biomeBlendRadius.27": "27x27（提升的）",
+  "options.biomeBlendRadius.29": "29x29（令人震惊的！）",
+  "options.biomeBlendRadiusTooltip": "BetterBiomeBlend始终使用29x29"
+  }

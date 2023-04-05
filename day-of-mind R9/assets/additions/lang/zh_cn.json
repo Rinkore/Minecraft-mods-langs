@@ -1,0 +1,80 @@
+{
+  "itemGroup.additions.items": "DayOfMind物品",
+  "itemGroup.additions.blocks": "DayOfMind方块",
+  
+  "block.additions.dirt_slab": "泥土半砖",
+  "block.additions.dirt_path_slab": "泥路半砖",
+  "block.additions.grass_slab": "草半砖",
+  "block.additions.gold_slab": "金半砖",
+  "block.additions.iron_slab": "铁半砖",
+  "block.additions.diamond_slab": "钻石半砖",
+  "block.additions.smooth_basalt_slab": "平滑玄武岩半砖",
+  "block.additions.polished_basalt_slab": "磨制玄武岩半砖",
+  "block.additions.magma_slab": "岩浆块半砖",
+  "block.additions.obsidian_slab": "黑曜石半砖",
+  "block.additions.crying_obsidian_slab": "哭泣的黑曜石半砖",
+  
+  "block.additions.dirt_stair": "泥土楼梯",
+  "block.additions.dirt_path_stair": "泥路楼梯",
+  "block.additions.grass_stair": "草楼梯",
+  "block.additions.gold_stair": "金楼梯",
+  "block.additions.iron_stair": "铁楼梯",
+  "block.additions.diamond_stair": "钻石楼梯",
+  "block.additions.smooth_basalt_stair": "平滑玄武岩楼梯",
+  "block.additions.polished_basalt_stair": "磨制玄武岩楼梯",
+  "block.additions.magma_stair": "岩浆块楼梯",
+  "block.additions.obsidian_stair": "黑曜石楼梯",
+  "block.additions.crying_obsidian_stair": "哭泣的黑曜石楼梯",
+  
+  "block.additions.netherite_lantern": "下界合金灯笼",
+  "block.additions.copper_lantern": "铜灯笼",
+  
+  "block.additions.decorative_iron_trapdoor": "装饰铁活板门",
+  
+  "block.additions.guitar": "吉他",
+  
+  "item.additions.wandering_musican_spawn_egg": "流浪音乐家刷怪蛋",
+  
+  "item.additions.copper_nugget": "铜粒",
+  "item.additions.netherite_nugget": "下界合金粒",
+  
+  "config.additions.features": "实验性设置",
+  "config.additions.experimentalSettings": "实验性功能",
+  "config.additions.modSettings": "Mod设置",
+  
+  "config.additions.experimentalSettings.EnabledGuitar": "添加吉他和方块",
+  "config.additions.experimentalSettings.EnabledGuitar.description":"你可以使用吉他演奏音乐。",
+  "config.additions.features.EnabledLantern": "更多灯笼变种",
+  "config.additions.features.EnabledLantern.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledDirt": "更多泥土变种",
+  "config.additions.features.EnabledDirt.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledGrass": "更多草地变种",
+  "config.additions.features.EnabledGrass.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledDirtPath": "更多泥路变种",
+  "config.additions.features.EnabledDirtPath.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledGold": "更多黄金变种",
+  "config.additions.features.EnabledGold.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledIron": "更多铁矿石变种",
+  "config.additions.features.EnabledIron.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledDia": "更多钻石变种",
+  "config.additions.features.EnabledDia.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledBasalt": "更多玄武岩变种",
+  "config.additions.features.EnabledBasalt.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledMagma": "更多岩浆块变种",
+  "config.additions.features.EnabledMagma.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledObsidian": "更多黑曜石变种",
+  "config.additions.features.EnabledObsidian.description":"启用或禁用这些方块",
+  "config.additions.features.EnabledDecorativeTrapdoor": "装饰活板门变种",
+  "config.additions.features.EnabledDecorativeTrapdoor.description":"启用或禁用这些方块 \n这个选项会添加一个铁活板门的替代品，可以手动切换而不需要使用红石。",
+  "config.additions.modSettings.EnabledTranslation": "自动下载社区翻译",
+  "config.additions.modSettings.EnabledTranslation.description": "启用此选项会自动下载附加的或更新的语言文件（crowdin）。\n如果您不需要此功能，请禁用此选项并删除您游戏目录中的<ModTranslations>文件夹。",
+
+
+
+
+  "_comment": "以下名称键已过时，不包括1.19.3及更新版本（请不要在crowdin上翻译此行）：config.additions.experimentalSettings.ExperimentalEntities，config.additions.experimentalSettings.ExperimentalEntities.description，config.additions.experimentalSettings.ExperimentalBlocks，config.additions.experimentalSettings.ExperimentalBlocks.description",
+
+  "config.additions.experimentalSettings.ExperimentalEntities": "启用实验性实体",
+  "config.additions.experimentalSettings.ExperimentalEntities.description": "添加实验性实体，如流浪音乐家到游戏中\n\n必须与您所玩的服务器上的设置相同",
+  "config.additions.experimentalSettings.ExperimentalBlocks": "启用实验性方块和物品",
+  "config.additions.experimentalSettings.ExperimentalBlocks.description": "添加实验性方块，如吉他到游戏中\n\n必须与您所玩的服务器上的设置相同"}

@@ -1,0 +1,9 @@
+{
+  "entity.aqupd.grizzly_bear": "灰熊",
+  "item.aqupd.grizzly_bear_spawn_egg": "灰熊生成蛋",
+  "subtitles.grizzly_bear.ambient": "灰熊呻吟声",
+  "subtitles.grizzly_bear.ambient_baby": "灰熊嗡嗡声",
+  "subtitles.grizzly_bear.death": "灰熊死亡声",
+  "subtitles.grizzly_bear.hurt": "灰熊受伤声",
+  "subtitles.grizzly_bear.warning": "灰熊咆哮声"
+  }

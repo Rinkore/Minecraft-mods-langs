@@ -1,0 +1,18 @@
+{
+  "entity.connectiblechains.chain_knot" : "链结",
+  "message.connectiblechains.connectible_chain" : "可连接到栅栏和墙壁",
+  "entity.connectiblechains.chain_collision" : "链碰撞",
+  "text.autoconfig.connectiblechains.option.chainHangAmount" : "链垂直度",
+  "text.autoconfig.connectiblechains.option.maxChainRange" : "最大链距离",
+  "text.autoconfig.connectiblechains.option.quality" : "链质量",
+  "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[0]" : "影响链的垂直度。",
+  "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[1]" : "数字越小，弧度越大。",
+  "text.autoconfig.connectiblechains.option.chainHangAmount.@Tooltip[2]" : "新增链或世界加载时，碰撞会更新。",
+  "text.autoconfig.connectiblechains.option.showToolTip" : "显示兼容性提示",
+  "text.autoconfig.connectiblechains.option.showToolTip.@Tooltip" : "显示与链兼容的物品提示。",
+  
+  "text.autoconfig.connectiblechains.option.maxChainRange.@Tooltip[0]" : "影响链的最大长度。",
+  "text.autoconfig.connectiblechains.option.maxChainRange.@Tooltip[1]" : "§n警告§r：过长的链有时可能会变得不可见！",
+  "text.autoconfig.connectiblechains.option.quality.@Tooltip" : "影响链的视觉质量。",
+  "text.autoconfig.connectiblechains.title": "连接链配置"
+  }

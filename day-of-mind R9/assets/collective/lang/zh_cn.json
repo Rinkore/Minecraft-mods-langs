@@ -1,0 +1,15 @@
+{
+  "collective.duskconfig.title": "Collective配置",
+  "collective.duskconfig.DESC_transferItemsBetweenReplacedEntities": "启用后，将从任何依赖于Collective的实体生成修改器中传输被替换实体的持有物品和盔甲。",
+  "collective.duskconfig.transferItemsBetweenReplacedEntities": "在替换实体之间传输物品",
+  "collective.duskconfig.DESC_loopsAmountUsedToGetAllEntityDrops": "Collective遍历可能的掉落物的次数以逐步获取它们。仅在依赖于它们的模组使用它们时生成掉落物。降低此值可以增加世界加载时间，但减少准确性。",
+  "collective.duskconfig.RANGE_loopsAmountUsedToGetAllEntityDrops": "最小值：1，最大值：500",
+  "collective.duskconfig.loopsAmountUsedToGetAllEntityDrops": "获取所有实体掉落物所用的循环次数",
+  "collective.duskconfig.DESC_findABlockcheckAroundEntitiesDelayMs": "检查实体周围是否有特定方块状态的延迟时间（以毫秒为单位）。用于依赖于世界中特定方块状态的模组。如果需要，增加此数字可以提高TPS。",
+  "collective.duskconfig.RANGE_findABlockcheckAroundEntitiesDelayMs": "最小值：0，最大值：3600000",
+  "collective.duskconfig.findABlockcheckAroundEntitiesDelayMs": "在实体周围查找方块时的延迟时间（毫秒）",
+  "collective.duskconfig.DESC_enableAntiRepostingCheck": "请访问https://stopmodreposts.org/了解此功能存在的原因。",
+  "collective.duskconfig.enableAntiRepostingCheck": "启用反重发检查",
+  "collective.duskconfig.DESC_enablePatronPets": "为赞助者启用宠物功能。将在未来的版本中添加。",
+  "collective.duskconfig.enablePatronPets": "启用赞助者宠物"
+}

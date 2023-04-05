@@ -1,0 +1,12 @@
+{
+  "text.exordium.title": "Exordium",
+  "text.exordium.enableGui": "启用界面",
+  "text.exordium.targetFramerateGui": "界面帧率",
+  "text.exordium.targetFramerateScreen": "游戏画面帧率",
+  "text.exordium.enableScreen": "启用游戏画面",
+  "text.exordium.enableSignBuffering": "牌子缓冲",
+  "text.exordium.enableNametagScreenBuffering": "启用姓名标签缓冲",
+  "text.exordium.targetFPSNameTags": "姓名标签帧率",
+  "text.exordium.enabledGuiAnimationSpeedup": "启用界面动画加速",
+  "text.exordium.targetFPSIngameGuiAnimated": "游戏画面动画帧率"
+  }

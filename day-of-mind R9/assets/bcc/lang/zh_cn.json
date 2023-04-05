@@ -1,0 +1,4 @@
+{
+  "bcc.gui.tooltip.compatible_server": "§3服务器：%s\n§2客户端（您）：%s",
+  "bcc.gui.tooltip.incompatible_server": "§6您正在运行与服务器不同的版本\n§6的模组包:(\n \n§4服务器：%s\n§4客户端（您）：%s"
+}

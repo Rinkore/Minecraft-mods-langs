@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.herdspanic.title": "HerdsPanic 配置",
+    "text.autoconfig.herdspanic.option.herd_panic": "群集惊恐",
+    "text.autoconfig.herdspanic.option.shelter_seeking": "动物寻找庇护所",
+    "text.autoconfig.herdspanic.option.excluded_entities": "排除实体列表",
+    "text.autoconfig.herdspanic.option.panic_time": "惊恐时间",
+    "text.autoconfig.herdspanic.option.panic_distance": "惊恐距离",
+    "text.autoconfig.herdspanic.option.alert_all_animals": "警报所有动物"
+    }

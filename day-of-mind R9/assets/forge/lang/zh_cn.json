@@ -1,0 +1,42 @@
+{
+  "commands.forge.arguments.enum.invalid": "枚举常量必须是{0}之一，发现{1}",
+  "commands.config.getwithtype": "在%s的类型为%s的配置项位于%s",
+  "commands.config.noconfig": "在%s的类型为%s的配置项未找到",
+  
+  "forge.configgui.title.runtimeConfigs": "编辑%s的运行时配置",
+  "forge.configgui.title.defaultConfigs": "编辑%s的默认配置",
+  "forge.configgui.client": "客户端选项",
+  "forge.configgui.server": "服务器或世界选项",
+  "forge.configgui.common": "通用选项",
+  "forge.configgui.fixAdvancementLoading.tooltip": "将此设置为true以修复重新登录到世界时进度加载，因为某个mod已经修改了它们的问题。",
+  "forge.configgui.fixAdvancementLoading": "修复进度加载",
+  "forge.configgui.permissionHandler.tooltip": "定义要使用的权限处理程序。",
+  "forge.configgui.permissionHandler": "权限处理程序",
+  "forge.configgui.useCombinedDepthStencilAttachment.toolTip": "将其设置为true以使用合并的深度/模板附件用于主帧缓冲区。",
+  "forge.configgui.useCombinedDepthStencilAttachment": "使用合并的深度/模板附件",
+  "forge.configgui.compressLanIPv6Addresses.toolTip": "将其设置为true以在LAN中压缩IPv6地址。",
+  "forge.configgui.compressLanIPv6Addresses": "压缩LAN IPv6地址",
+  
+  "forge.configgui.entryInvalid": "值无效，请更改。",
+  "forge.configgui.requiresWorldRestartToTakeEffect": "此更改需要重新启动世界才能生效。",
+  
+  "forge.configgui.error.boolean.notTrueOrFalse": "当前值为：{0}。\n它必须为 true 或 false。",
+  "forge.configgui.error.boolean.needsToBeText": "该值必须为文本值。",
+  "forge.configgui.error.ranged.notInBounds": "当前值为：{0}。\n它必须在 {1} 和 {2} 之间。",
+  "forge.configgui.error.ranged.needsToBeOfType": "该值必须为 {0} 类型。",
+  "forge.configgui.error.enum.invalidName": "当前值为：{0}。\n它必须是以下之一：{1}",
+  "forge.configgui.error.enum.needsToBeText": "该值必须为文本值。",
+  "forge.configgui.error.permissionHandler.unknownName": "当前值为：{0}。\n它必须是以下之一：{1}",
+  "forge.configgui.error.permissionHandler.needsToBeText": "该值必须为文本值。",
+  
+  "forge.configgui.resetToInitial": "重置为以前的值。\n（打开此屏幕之前的值。）",
+  "forge.configgui.resetToDefault": "重置为默认值",
+  "forge.configgui.resetGroupToInitial": "将该组中的所有条目重置为以前的值。\n（打开此屏幕之前的值。）",
+  "forge.configgui.resetGroupToDefault": "将该组中的所有条目重置为默认值",
+  "forge.configgui.resetAllToInitial": "将所有条目重置为以前的值。\n（打开此屏幕之前的值。）",
+  "forge.configgui.resetAllToDefault": "将所有条目重置为默认值",
+  "forge.configgui.search": "搜索",
+  
+  "forge.configgui.cancel.confirm.title": "放弃未保存的更改？",
+  "forge.configgui.cancel.confirm.message": "您确定要放弃所有未保存的更改吗？"
+}

@@ -1,0 +1,81 @@
+{
+  "itemGroup.additions.items": "DayOfMind Items",
+  "itemGroup.additions.blocks": "DayOfMind Blocks",
+
+  "block.additions.dirt_slab": "Dirt Slab",
+  "block.additions.dirt_path_slab": "Dirt Path Slab",
+  "block.additions.grass_slab": "Grass Slab",
+  "block.additions.gold_slab": "Gold Slab",
+  "block.additions.iron_slab": "Iron Slab",
+  "block.additions.diamond_slab": "Diamond Slab",
+  "block.additions.smooth_basalt_slab": "Smooth Basalt Slab",
+  "block.additions.polished_basalt_slab": "Polished Basalt Slab",
+  "block.additions.magma_slab": "Magma Slab",
+  "block.additions.obsidian_slab": "Obsidian Slab",
+  "block.additions.crying_obsidian_slab": "Crying Obsidian Slab",
+
+  "block.additions.dirt_stair": "Dirt Stair",
+  "block.additions.dirt_path_stair": "Dirt Path Stair",
+  "block.additions.grass_stair": "Grass Stair",
+  "block.additions.gold_stair": "Gold Stair",
+  "block.additions.iron_stair": "Iron Stair",
+  "block.additions.diamond_stair": "Diamond Stair",
+  "block.additions.smooth_basalt_stair": "Smooth Basalt Stair",
+  "block.additions.polished_basalt_stair": "Polished Basalt Stair",
+  "block.additions.magma_stair": "Magma Stair",
+  "block.additions.obsidian_stair": "Obsidian Stair",
+  "block.additions.crying_obsidian_stair": "Crying Obsidian Stair",
+
+  "block.additions.netherite_lantern": "Netherite Lantern",
+  "block.additions.copper_lantern": "Copper Lantern",
+
+  "block.additions.decorative_iron_trapdoor": "Decorative Iron Trapdoor",
+
+  "block.additions.guitar": "Guitar",
+
+  "item.additions.wandering_musican_spawn_egg": "Wandering Musican Spawn Egg",
+
+  "item.additions.copper_nugget": "Copper Nugget",
+  "item.additions.netherite_nugget": "Netherite Nugget",
+
+  "config.additions.features": "Experimental Settings",
+  "config.additions.experimentalSettings": "Features",
+  "config.additions.modSettings": "Mod Settings",
+
+  "config.additions.experimentalSettings.EnabledGuitar": "adds the guitar item and Block",
+  "config.additions.experimentalSettings.EnabledGuitar.description":"You can play music with the guitar.",
+  "config.additions.features.EnabledLantern": "more lantern variants",
+  "config.additions.features.EnabledLantern.description":"enable or disable these blocks",
+  "config.additions.features.EnabledDirt": "more dirt variants",
+  "config.additions.features.EnabledDirt.description":"enable or disable these blocks",
+  "config.additions.features.EnabledGrass": "more grass variants",
+  "config.additions.features.EnabledGrass.description":"enable or disable these blocks",
+  "config.additions.features.EnabledDirtPath": "more dirt path variants",
+  "config.additions.features.EnabledDirtPath.description":"enable or disable these blocks",
+  "config.additions.features.EnabledGold": "more gold variants",
+  "config.additions.features.EnabledGold.description":"enable or disable these blocks",
+  "config.additions.features.EnabledIron": "more iron variants",
+  "config.additions.features.EnabledIron.description":"enable or disable these blocks",
+  "config.additions.features.EnabledDia": "more diamond variants",
+  "config.additions.features.EnabledDia.description":"enable or disable these blocks",
+  "config.additions.features.EnabledBasalt": "more basalt variants",
+  "config.additions.features.EnabledBasalt.description":"enable or disable these blocks",
+  "config.additions.features.EnabledMagma": "more magma variants",
+  "config.additions.features.EnabledMagma.description":"enable or disable these blocks",
+  "config.additions.features.EnabledObsidian": "more obsidian variants",
+  "config.additions.features.EnabledObsidian.description":"enable or disable this blocks",
+  "config.additions.features.EnabledDecorativeTrapdoor": "decorative Trapdoor variants",
+  "config.additions.features.EnabledDecorativeTrapdoor.description":"enable or disable these blocks \nthis option adds an alternative variant to the iron trapdoor, which can be switched by hand instead of redstone.",
+  "config.additions.modSettings.EnabledTranslation": "Automatic Download of community translations",
+  "config.additions.modSettings.EnabledTranslation.description": "This enables the automatic download of additional or updated language files (crowdin).\nif you don´t want this, just disable this option and delete the <ModTranslations> folder in your game directory",
+
+
+
+
+  "_comment": "The following name keys are obsolete and not part of versions like 1.19.3 and newer (Do not translate this line on crowdin): config.additions.experimentalSettings.ExperimentalEntities,config.additions.experimentalSettings.ExperimentalEntities.description,config.additions.experimentalSettings.ExperimentalBlocks,config.additions.experimentalSettings.ExperimentalBlocks.description",
+
+  "config.additions.experimentalSettings.ExperimentalEntities": "Enable experimental entity's",
+  "config.additions.experimentalSettings.ExperimentalEntities.description": "Adds experimental entities \nlike wandering musican to the game \n\nmust be the same as on the server you are playing on",
+  "config.additions.experimentalSettings.ExperimentalBlocks": "Enable experimental blocks & items",
+  "config.additions.experimentalSettings.ExperimentalBlocks.description": "Adds experimental blocks \nlike the guitar to the game \n\nmust be the same as on the server you are playing on"
+}

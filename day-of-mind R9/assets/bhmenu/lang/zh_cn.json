@@ -1,0 +1,29 @@
+{
+  "step.base.create_your_server": "让我们创建您的 Minecraft 服务器。",
+  "step.base.back": "返回",
+  
+  "step.loading_plans.loading": "正在加载方案",
+  "step.loading_plans.failed": "无法加载方案",
+  
+  "step.player_count.question": "您预计服务器上会有多少玩家同时在线？",
+  "step.player_count.next": "下一步",
+  
+  "step.recommended_jar.detected": "我们检测到您正在运行：",
+  "step.recommended_jar.choice": "点击“选择”使用此版本，或点击“更改”选择其他版本。",
+  "step.recommended_jar.select": "选择",
+  "step.recommended_jar.change": "更改",
+  
+  "step.select_jar.name_filter": "按名称筛选",
+  "step.select_jar.platform_filter": "按平台筛选",
+  "step.select_jar.select_pack": "选择版本包",
+  "step.select_jar.select": "选择",
+  
+  "step.select_package.plan": "我们已为您选择了最适合的方案！",
+  "step.select_package.slider": "移动滑块以选择不同的方案",
+  "step.select_package.order_plan": "订购方案",
+  "step.select_package.price": "每月 $%s",
+  
+  "step.select_plan.choose_plan": "选择方案类型",
+  "step.select_plan.choose_budget": "选择经济型方案",
+  "step.select_plan.choose_premium": "选择高级方案"
+}
